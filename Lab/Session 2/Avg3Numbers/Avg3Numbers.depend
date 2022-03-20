@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647456713 source:c:\users\jay\desktop\cprogramming\avg3numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
