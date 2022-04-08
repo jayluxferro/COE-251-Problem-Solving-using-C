@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648806153 source:c:\users\jay\desktop\cprogramming\cconstants\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
